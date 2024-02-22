@@ -17,7 +17,7 @@
   "types": "./lib/cjs/types/index.d.ts",
   "main": "./lib/cjs/index.js",
   "files": [
-    "lib/**/*"
+    "lib"
   ],
   "scripts": {
     "clean": "del-cli ./lib",
