@@ -32,6 +32,7 @@ results
 tmp
 node_modules
 npm-debug.log
+.npmrc
 
 ## Build
 build
