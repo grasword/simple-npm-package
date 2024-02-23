@@ -4,7 +4,7 @@ export function helloWorld() {
 }
 
 export function goodBye() {
-  const message = "Goodbye from my example modern npm package!";
+  const message = "Goodbye from my example modern npm package! General Kenobi!";
   return message;
 }
 
